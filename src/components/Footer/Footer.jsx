@@ -16,8 +16,6 @@ const Footer = () => {
               <img src={logo} alt="logo" />
               <h5>Tasty Treat</h5>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Nesciunt pariatur accusamus
               </p>
             </div>
           </Col>
